@@ -9,7 +9,7 @@
 
 ​	I want to create a framework that will later enable me to create some funky 2D games. But i don't want to blindly use libraries without understanding how they work.
 
-​	You can read more about this in my blog : https://marodungeon.neocities.org/pages/blogs/b2
+​	You can read more about this in my blog : [Blog](https://atblog.neocities.org/pages/blog)
 
 ##### Target
 
